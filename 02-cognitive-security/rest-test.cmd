@@ -1,0 +1,1 @@
+curl -X POST "https://mylabvs.cognitiveservices.azure.com/text/analytics/v3.0/languages?" -H "Content-Type: application/json" -H "Ocp-Apim-Subscription-Key: 061df90e2e234c6782de75dd4a0010be" --data-ascii "{'documents':[{'id':1,'text':'hello'}]}"
