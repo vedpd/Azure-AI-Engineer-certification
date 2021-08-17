@@ -32,5 +32,5 @@ This repo contains the lab instructions and files used in Microsoft Official Cur
 ## Note:
 
 - This is Author's version of the code practice. For a git repo with no config details, please refer the [officially forked repo](https://github.com/vedpd/AI-102-AIEngineer.git)
-- Practice sessions and pathways present [here](https://www.zippyjot.com/note/62116)
+- Practice sessions and pathways present [Zippyjot link here](https://www.zippyjot.com/note/62116)
 
